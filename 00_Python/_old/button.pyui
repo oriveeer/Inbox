@@ -1,0 +1,68 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{87, 177}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{85, 268}, {150, 32}}",
+          "uuid" : "527A8EA6-82CA-45EC-A359-F230CF255507",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "koza",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{239, 238}, {81, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "clear",
+          "frame" : "{{120, 268}, {80, 32}}",
+          "title" : "Clear",
+          "uuid" : "D32A822A-6F5F-46AC-AC4C-0321E0529E09",
+          "class" : "Button",
+          "name" : "clear1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 238}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "plus",
+          "frame" : "{{120, 268}, {80, 32}}",
+          "title" : "Button",
+          "uuid" : "3FD91ED3-2C0A-4FED-A113-C2285B32F64B",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 568}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

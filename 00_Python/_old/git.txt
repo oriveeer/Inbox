@@ -1,0 +1,10 @@
+# git
+
+git add F
+git commit -a
+git status
+git push origin F
+git checkout master
+git pull
+git branch -d python
+git branch
