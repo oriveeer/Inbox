@@ -13,7 +13,7 @@ PASS = ["xxxxxxxxx"]
 
 
 # Login
-def login_():
+def LOGIN():
 	
     # ChromeStarting
     _driver = webdriver.Chrome("./chromedriver")
@@ -41,7 +41,7 @@ def login_():
 if __name__ == '__main__':
     _num = 0
     for _loop in ID:
-        login_()
+        LOGIN()
         sleep(3)
         _num += 1
 ############################
