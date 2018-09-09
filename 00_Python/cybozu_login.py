@@ -8,8 +8,8 @@ from time import sleep
 
 # Variable
 URL = "https://cybozulive.com/"
-ID = ["mail-address"]
-PASS = ["xxxxxxxxx"]
+ID = ["xxx"]
+PASS = ["xxx"]
 
 
 # Login
